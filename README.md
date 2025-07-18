@@ -9,8 +9,6 @@ A modern, production-ready Next.js template with TypeScript, comprehensive tooli
 - **🎨 Sass/SCSS** - Advanced styling with CSS Modules support
 - **🔧 ESLint** - Code linting with Next.js and TypeScript rules
 - **💅 Prettier** - Code formatting
-- **🎯 Stylelint** - CSS/SCSS linting and formatting
-- **🚀 Plop.js** - Component and page generation
 - **🔒 Pre-commit hooks** - Automated code quality checks
 - **📦 Dependabot** - Automated dependency updates
 - **🖼️ SVG support** - Import SVGs as React components
